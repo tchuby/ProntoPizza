@@ -1,0 +1,26 @@
+#parte-pedido {
+    display: grid;
+    grid-template-columns: auto 500px;
+    grid-template-areas: "pizza carrinho"
+                         "bebida carrinho";
+}
+
+#pedido-pizza{
+    grid-area: pizza;
+    background-color: aqua;
+}
+
+#pedido-bebida{
+    grid-area: bebida;
+    background-color: palevioletred;
+}
+
+#carrinho{
+    grid-area: carrinho;
+    background-color: yellow;
+}
+
+img{
+    height: 250px;
+
+}

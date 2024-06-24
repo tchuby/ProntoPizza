@@ -1,0 +1,16 @@
+h3{
+    text-align: center;
+    padding: 10px;
+}
+
+img{
+    height: 250px;
+}
+
+.col{
+    padding: 15px 50px;
+}
+
+.precos{
+    color: gray;
+}

@@ -1,0 +1,18 @@
+h3{
+    text-align: center;
+    padding: 10px;
+}
+
+table{
+    text-align: center;
+    border: 1px solid black;
+    
+}
+
+img{
+    height: 250px;
+}
+
+.col{
+    padding: 15px 50px;
+}
