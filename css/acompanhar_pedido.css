@@ -1,0 +1,28 @@
+#container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.graph{
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 3em;
+}
+
+.step{
+    padding: 3px;
+    border-radius: .5em;
+}
+
+.step-check{
+    border: 1px solid blue;
+}
+
+.step-out{
+    background-color: lightgray;
+}
