@@ -7,20 +7,17 @@
 
 #pedido-pizza{
     grid-area: pizza;
-    background-color: aqua;
 }
 
 #pedido-bebida{
     grid-area: bebida;
-    background-color: palevioletred;
 }
 
 #carrinho{
     grid-area: carrinho;
-    background-color: yellow;
+    background-color: lightgray;
 }
 
 img{
     height: 250px;
-
 }
